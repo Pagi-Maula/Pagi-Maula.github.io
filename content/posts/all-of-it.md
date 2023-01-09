@@ -7,7 +7,7 @@ date: 2023-01-09T10:04:37+05:30
 
 ![image](https://user-images.githubusercontent.com/99474195/210228541-9669ddff-3e33-422e-91cc-2ffc49dfd947.png)
 ![image](https://user-images.githubusercontent.com/99474195/210228628-c15fdfc2-18cc-4adb-b1db-36052bcfb72b.png)
-![image](https://github.com/Pagi-Maula/Pagi-Maula.github.io/blob/main/files/104153248_p0.png?raw=true)
+![image](/files/81067754_p0_master1200.jpg)
 ![image](https://github.com/Pagi-Maula/Pagi-Maula.github.io/blob/main/files/100815496_p0_master1200.jpg?raw=true)
 ![image](https://github.com/Pagi-Maula/Pagi-Maula.github.io/blob/main/files/103501457_p0_master1200.jpg?raw=true)
 ![image](https://github.com/Pagi-Maula/Pagi-Maula.github.io/blob/main/files/104034821_p0_master1200.jpg?raw=true)
