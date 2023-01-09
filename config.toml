@@ -61,21 +61,6 @@ theme = 'hello-friend'
         name = "About"
         url = "/about"
       [[languages.en.menu.main]]
-        identifier = "showcase"
-        name = "Showcase"
-        url = "/showcase"
-
-
-
-
-
-
-
-  [params.social]
-  rss            = true
-  email          = "rich.youngkin@gmail.com"
-  linkedin       = "https://www.linkedin.com/in/richard-youngkin-0749763"
-  github         = "https://github.com/youngkin"
-  medium         = "https://medium.com/@RichYoungkin"
-  stackoverflow  = "https://stackoverflow.com/users/2646870/rich"
-  reddit         = "https://www.reddit.com/user/elevation5280"
+        identifier = "archive"
+        name = "Archive"
+        url = "/archive"
