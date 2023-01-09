@@ -64,3 +64,4 @@ theme = 'hello-friend'
         identifier = "archive"
         name = "Archive"
         url = "/archive"
+theme = 'pagi-hello-friend'
