@@ -1,7 +1,6 @@
 ---
 title: "All of it"
 date: 2023-01-09T10:04:37+05:30
-draft: true
 ---
 
 # ALl of it

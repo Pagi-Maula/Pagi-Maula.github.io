@@ -1,7 +1,7 @@
 ---
 title: "The-efficiency-with-which-he-paired-the-socks-in-the-drawer-was-quite-admirable"
 date: 2023-01-09T10:04:37+05:30
-draft: true
+
 ---
 
 ![image](https://user-images.githubusercontent.com/99474195/210226326-8ba8ad26-1b74-46ef-9aca-f1a7ce0dcee9.png)

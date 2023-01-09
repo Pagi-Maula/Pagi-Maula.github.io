@@ -1,7 +1,7 @@
 ---
 title: "Another blog post"
 date: 2023-01-09T10:04:37+05:30
-draft: true
+
 ---
 
 There wasn't a whole lot more that could be done. It had become a wait-and-see situation with the final results no longer in her control. That didn't stop her from trying to control the situation. She demanded that things be done as she desperately tried to control what couldn't be.

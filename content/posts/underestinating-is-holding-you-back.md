@@ -1,7 +1,7 @@
 ---
 title: "Underestimating is holding you back"
 date: 2023-01-09T10:04:37+05:30
-draft: true
+
 ---
 
 I feel like underestimating how hard something is directly contributing to commitment issues and procrastination. For example, if you are between the ages of 16 and 27 and you had a semi-deep conversation with your friend, chances are you have thought about starting a podcast. The thing is most of us haven’t even taken the first step to create an account, my friend and I decided that we would host a podcast in his car this past summer, and we never even recorded a single clip of footage. This raised a question, what does it take to actually commit to something instead of just saying you’ll get to it later?
