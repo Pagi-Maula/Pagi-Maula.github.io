@@ -48,7 +48,7 @@ theme = 'hello-friend'
     # lastModDisplay = ""
 
     [languages.en.params.logo]
-      logoText = "pagi maula"
+      logoText = "Pagi Maula"
       logoHomeLink = "/"
     # or
     #
