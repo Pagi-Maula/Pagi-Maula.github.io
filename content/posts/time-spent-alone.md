@@ -1,7 +1,6 @@
 ---
 title: "Time Spent Alone"
 date: 2023-01-07T22:49:00+05:30
-draft: true
 ---
 # Good Question: Is It Bad to Spend a Lot of Time Alone?
 
