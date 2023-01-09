@@ -1,0 +1,3 @@
+[submodule "themes/pagi-maula-hello-friend"]
+	path = themes/pagi-maula-hello-friend
+	url = https://github.com/Pagi-Maula/hugo-theme-hello-friend.git
